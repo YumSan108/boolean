@@ -1,7 +1,7 @@
 // Using if/else statements, JavaScript code in a script tag that prints true if both parameters are greater or equal to 5.
 
-let num1 = prompt('Please enter a value for num1');
-let num2 = prompt('Please enter a value for num2');
+let num1 = 7;
+let num2 = 5;
 
 if (num1 >= 5 && num2 >= 5) {
     console.log(true);
